@@ -1,0 +1,40 @@
+body {
+
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url(img/fit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.paragraph {
+    font-family: cursive;
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    left: 38px;
+    top: 173px;
+    line-height: 23px;
+}
+
+h1{
+    
+    font-family: cursive;
+    font-size: 63px;
+    display: block;
+    width: 26%;
+    margin: 20px auto;
+}
+
+.img img {
+        height: 300px;
+        margin: 123px -10px;
+        padding: 81px 75px;
+        width: 32%;
+        border-radius: 22px;
+    }
+
